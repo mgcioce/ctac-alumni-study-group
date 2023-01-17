@@ -133,8 +133,11 @@ Here I've detailed a dependency graph where each sticky note requires some amoun
 Here are some problems to practice some of these techniques on:
 
 https://leetcode.com/problems/sum-of-unique-elements/
+
 https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
 https://leetcode.com/problems/teemo-attacking/
+
 https://adventofcode.com/2022/day/4
 
 

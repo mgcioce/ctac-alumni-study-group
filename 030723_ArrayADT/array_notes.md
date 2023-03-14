@@ -1,3 +1,8 @@
+# Arrays 1: Array abstract data types
+
+## 1) What is an array?
+
+
 ## 1) Prototype-Based Programming
 
 Javascript is actually an object oriented programming language, but it's paradigm is slightly different than other object oriented languages such as java.
@@ -12,3 +17,4 @@ We will go more into depth on prototypes in javascript later on as it will be im
 the totality of how objects work in javascript when we go into other data structure topics, but hopefully for now this will be a good introduction.
 
 ## 2) What is an array?
+
